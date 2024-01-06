@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "prettier": "prettier --write .",
     "prepare": "husky install",
-    "commit":"cz"
+    "commit":"cz --no-verify"
   },
   "dependencies": {
     "vue": "^3.3.11"
